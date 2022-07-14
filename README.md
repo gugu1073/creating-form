@@ -18,5 +18,3 @@ Ajustando novos campos dentro do fieldset
 Aplicando estilos aos agrupamentos restantes
 
 Criando estilos para o submit
-
-Criando estilos para o submit
